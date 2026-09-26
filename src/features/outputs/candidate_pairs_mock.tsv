@@ -1,0 +1,201 @@
+id1	id2	name1	name2	addr1	addr2	country1	country2	postal1	postal2	label
+S1_0000	S2_0000	Global Tech Ltd	Global Technologies Limited	45 Oak Ave	45 Oak Avenue	GB	GB	SW1A 1AA	SW1A 1AA	1
+S1_0001	S2_0001	Acme Corp	Acme Corporation	123 Main St	123 Main Street	US	US	10001	10001	1
+S1_0002	S2_0002	Delta Airlines	Delta Air Lines Inc	PO Box 20706	Hartsfield Airport	US	US	30320	30320	1
+S1_0003	S2_0003	Sunrise Bakery	Sunset Bakery	9 Elm St	22 Pine Rd	US	US	60614	60615	0
+S1_0004	S2_0004	Sunrise Bakery	Sunset Bakery	9 Elm St	22 Pine Rd	US	US	60614	60615	0
+S1_0005	S2_0005	Nordic Fisheries AB	Nordic Fisheries	Hamngatan 12	Hamngatan 12	SE	SE	11147	11147	1
+S1_0006	S2_0006	Global Tech Ltd	Global Technologies Limited	45 Oak Ave	45 Oak Avenue	GB	GB	SW1A 1AA	SW1A 1AA	1
+S1_0007	S2_0007	Maple Leaf Foods	Maple Leaf Food Co	500 King St W	500 King Street West	CA	CA	M5V 1L9	M5V 1L9	1
+S1_0008	S2_0008	Global Tech Ltd	Global Technologies Limited	45 Oak Ave	45 Oak Avenue	GB	GB	SW1A 1AA	SW1A 1AA	1
+S1_0009	S2_0009	Riverdale Clinic	Riverside Clinic	12 River Rd	88 Lake Rd	US	US	94110	94111	0
+S1_0010	S2_0010	Tokyo Imports	Osaka Exports	1-2 Shibuya	3-4 Namba	JP	JP	150-0002	556-0011	0
+S1_0011	S2_0011	Acme Corp	Acme Corporation	123 Main St	123 Main Street	US	US	10001	10001	1
+S1_0012	S2_0012	Acme Corp	Acme Corporation	123 Main St	123 Main Street	US	US	10001	10001	1
+S1_0013	S2_0013	Global Tech Ltd	Global Technologies Limited	45 Oak Ave	45 Oak Avenue	GB	GB	SW1A 1AA	SW1A 1AA	1
+S1_0014	S2_0014	Sunrise Bakery	Sunset Bakery	9 Elm St	22 Pine Rd	US	US	60614	60615	0
+S1_0015	S2_0015	Sunrise Bakery	Sunset Bakery	9 Elm St	22 Pine Rd	US	US	60614	60615	0
+S1_0016	S2_0016	Maple Leaf Foods	Maple Leaf Food Co	500 King St W	500 King Street West	CA	CA	M5V 1L9	M5V 1L9	1
+S1_0017	S2_0017	Riverdale Clinic	Riverside Clinic	12 River Rd	88 Lake Rd	US	US	94110	94111	0
+S1_0018	S2_0018	Acme Corp	Acme Corporation	123 Main St	123 Main Street	US	US	10001	10001	1
+S1_0019	S2_0019	Maple Leaf Foods	Maple Leaf Food Co	500 King St W	500 King Street West	CA	CA	M5V 1L9	M5V 1L9	1
+S1_0020	S2_0020	Sunrise Bakery	Sunset Bakery	9 Elm St	22 Pine Rd	US	US	60614	60615	0
+S1_0021	S2_0021	Maple Leaf Foods	Maple Leaf Food Co	500 King St W	500 King Street West	CA	CA	M5V 1L9	M5V 1L9	1
+S1_0022	S2_0022	Tokyo Imports	Osaka Exports	1-2 Shibuya	3-4 Namba	JP	JP	150-0002	556-0011	0
+S1_0023	S2_0023	Sunrise Bakery	Sunset Bakery	9 Elm St	22 Pine Rd	US	US	60614	60615	0
+S1_0024	S2_0024	Berlin Motors GmbH	Berlin Motors	Alexanderplatz 1	Alexanderplatz 1	DE	DE	10178	10178	1
+S1_0025	S2_0025	Riverdale Clinic	Riverside Clinic	12 River Rd	88 Lake Rd	US	US	94110	94111	0
+S1_0026	S2_0026	Delta Airlines	Delta Air Lines Inc	PO Box 20706	Hartsfield Airport	US	US	30320	30320	1
+S1_0027	S2_0027	Acme Corp	Acme Corporation	123 Main St	123 Main Street	US	US	10001	10001	1
+S1_0028	S2_0028	Nordic Fisheries AB	Nordic Fisheries	Hamngatan 12	Hamngatan 12	SE	SE	11147	11147	1
+S1_0029	S2_0029	Tokyo Imports	Osaka Exports	1-2 Shibuya	3-4 Namba	JP	JP	150-0002	556-0011	0
+S1_0030	S2_0030	Cafe Paris	Cafe de Paris	10 Rue de Rivoli	10 Rue Rivoli	FR	FR	75001	75001	1
+S1_0031	S2_0031	Delta Airlines	Delta Air Lines Inc	PO Box 20706	Hartsfield Airport	US	US	30320	30320	1
+S1_0032	S2_0032	Nordic Fisheries AB	Nordic Fisheries	Hamngatan 12	Hamngatan 12	SE	SE	11147	11147	1
+S1_0033	S2_0033	Sunrise Bakery	Sunset Bakery	9 Elm St	22 Pine Rd	US	US	60614	60615	0
+S1_0034	S2_0034	Cafe Paris	Cafe de Paris	10 Rue de Rivoli	10 Rue Rivoli	FR	FR	75001	75001	1
+S1_0035	S2_0035	Global Tech Ltd	Global Technologies Limited	45 Oak Ave	45 Oak Avenue	GB	GB	SW1A 1AA	SW1A 1AA	1
+S1_0036	S2_0036	Global Tech Ltd	Global Technologies Limited	45 Oak Ave	45 Oak Avenue	GB	GB	SW1A 1AA	SW1A 1AA	1
+S1_0037	S2_0037	Tokyo Imports	Osaka Exports	1-2 Shibuya	3-4 Namba	JP	JP	150-0002	556-0011	0
+S1_0038	S2_0038	Global Tech Ltd	Global Technologies Limited	45 Oak Ave	45 Oak Avenue	GB	GB	SW1A 1AA	SW1A 1AA	1
+S1_0039	S2_0039	Cafe Paris	Cafe de Paris	10 Rue de Rivoli	10 Rue Rivoli	FR	FR	75001	75001	1
+S1_0040	S2_0040	Cafe Paris	Cafe de Paris	10 Rue de Rivoli	10 Rue Rivoli	FR	FR	75001	75001	1
+S1_0041	S2_0041	Riverdale Clinic	Riverside Clinic	12 River Rd	88 Lake Rd	US	US	94110	94111	0
+S1_0042	S2_0042	Delta Airlines	Delta Air Lines Inc	PO Box 20706	Hartsfield Airport	US	US	30320	30320	1
+S1_0043	S2_0043	Acme Corp	Acme Corporation	123 Main St	123 Main Street	US	US	10001	10001	1
+S1_0044	S2_0044	Berlin Motors GmbH	Berlin Motors	Alexanderplatz 1	Alexanderplatz 1	DE	DE	10178	10178	1
+S1_0045	S2_0045	Maple Leaf Foods	Maple Leaf Food Co	500 King St W	500 King Street West	CA	CA	M5V 1L9	M5V 1L9	1
+S1_0046	S2_0046	Global Tech Ltd	Global Technologies Limited	45 Oak Ave	45 Oak Avenue	GB	GB	SW1A 1AA	SW1A 1AA	1
+S1_0047	S2_0047	Tokyo Imports	Osaka Exports	1-2 Shibuya	3-4 Namba	JP	JP	150-0002	556-0011	0
+S1_0048	S2_0048	Global Tech Ltd	Global Technologies Limited	45 Oak Ave	45 Oak Avenue	GB	GB	SW1A 1AA	SW1A 1AA	1
+S1_0049	S2_0049	Maple Leaf Foods	Maple Leaf Food Co	500 King St W	500 King Street West	CA	CA	M5V 1L9	M5V 1L9	1
+S1_0050	S2_0050	Delta Airlines	Delta Air Lines Inc	PO Box 20706	Hartsfield Airport	US	US	30320	30320	1
+S1_0051	S2_0051	Riverdale Clinic	Riverside Clinic	12 River Rd	88 Lake Rd	US	US	94110	94111	0
+S1_0052	S2_0052	Cafe Paris	Cafe de Paris	10 Rue de Rivoli	10 Rue Rivoli	FR	FR	75001	75001	1
+S1_0053	S2_0053	Riverdale Clinic	Riverside Clinic	12 River Rd	88 Lake Rd	US	US	94110	94111	0
+S1_0054	S2_0054	Sunrise Bakery	Sunset Bakery	9 Elm St	22 Pine Rd	US	US	60614	60615	0
+S1_0055	S2_0055	Global Tech Ltd	Global Technologies Limited	45 Oak Ave	45 Oak Avenue	GB	GB	SW1A 1AA	SW1A 1AA	1
+S1_0056	S2_0056	Acme Corp	Acme Corporation	123 Main St	123 Main Street	US	US	10001	10001	1
+S1_0057	S2_0057	Sunrise Bakery	Sunset Bakery	9 Elm St	22 Pine Rd	US	US	60614	60615	0
+S1_0058	S2_0058	Delta Airlines	Delta Air Lines Inc	PO Box 20706	Hartsfield Airport	US	US	30320	30320	1
+S1_0059	S2_0059	Global Tech Ltd	Global Technologies Limited	45 Oak Ave	45 Oak Avenue	GB	GB	SW1A 1AA	SW1A 1AA	1
+S1_0060	S2_0060	Sunrise Bakery	Sunset Bakery	9 Elm St	22 Pine Rd	US	US	60614	60615	0
+S1_0061	S2_0061	Global Tech Ltd	Global Technologies Limited	45 Oak Ave	45 Oak Avenue	GB	GB	SW1A 1AA	SW1A 1AA	1
+S1_0062	S2_0062	Tokyo Imports	Osaka Exports	1-2 Shibuya	3-4 Namba	JP	JP	150-0002	556-0011	0
+S1_0063	S2_0063	Delta Airlines	Delta Air Lines Inc	PO Box 20706	Hartsfield Airport	US	US	30320	30320	1
+S1_0064	S2_0064	Berlin Motors GmbH	Berlin Motors	Alexanderplatz 1	Alexanderplatz 1	DE	DE	10178	10178	1
+S1_0065	S2_0065	Cafe Paris	Cafe de Paris	10 Rue de Rivoli	10 Rue Rivoli	FR	FR	75001	75001	1
+S1_0066	S2_0066	Nordic Fisheries AB	Nordic Fisheries	Hamngatan 12	Hamngatan 12	SE	SE	11147	11147	1
+S1_0067	S2_0067	Cafe Paris	Cafe de Paris	10 Rue de Rivoli	10 Rue Rivoli	FR	FR	75001	75001	1
+S1_0068	S2_0068	Cafe Paris	Cafe de Paris	10 Rue de Rivoli	10 Rue Rivoli	FR	FR	75001	75001	1
+S1_0069	S2_0069	Sunrise Bakery	Sunset Bakery	9 Elm St	22 Pine Rd	US	US	60614	60615	0
+S1_0070	S2_0070	Delta Airlines	Delta Air Lines Inc	PO Box 20706	Hartsfield Airport	US	US	30320	30320	1
+S1_0071	S2_0071	Global Tech Ltd	Global Technologies Limited	45 Oak Ave	45 Oak Avenue	GB	GB	SW1A 1AA	SW1A 1AA	1
+S1_0072	S2_0072	Riverdale Clinic	Riverside Clinic	12 River Rd	88 Lake Rd	US	US	94110	94111	0
+S1_0073	S2_0073	Nordic Fisheries AB	Nordic Fisheries	Hamngatan 12	Hamngatan 12	SE	SE	11147	11147	1
+S1_0074	S2_0074	Maple Leaf Foods	Maple Leaf Food Co	500 King St W	500 King Street West	CA	CA	M5V 1L9	M5V 1L9	1
+S1_0075	S2_0075	Sunrise Bakery	Sunset Bakery	9 Elm St	22 Pine Rd	US	US	60614	60615	0
+S1_0076	S2_0076	Nordic Fisheries AB	Nordic Fisheries	Hamngatan 12	Hamngatan 12	SE	SE	11147	11147	1
+S1_0077	S2_0077	Berlin Motors GmbH	Berlin Motors	Alexanderplatz 1	Alexanderplatz 1	DE	DE	10178	10178	1
+S1_0078	S2_0078	Tokyo Imports	Osaka Exports	1-2 Shibuya	3-4 Namba	JP	JP	150-0002	556-0011	0
+S1_0079	S2_0079	Delta Airlines	Delta Air Lines Inc	PO Box 20706	Hartsfield Airport	US	US	30320	30320	1
+S1_0080	S2_0080	Maple Leaf Foods	Maple Leaf Food Co	500 King St W	500 King Street West	CA	CA	M5V 1L9	M5V 1L9	1
+S1_0081	S2_0081	Sunrise Bakery	Sunset Bakery	9 Elm St	22 Pine Rd	US	US	60614	60615	0
+S1_0082	S2_0082	Cafe Paris	Cafe de Paris	10 Rue de Rivoli	10 Rue Rivoli	FR	FR	75001	75001	1
+S1_0083	S2_0083	Acme Corp	Acme Corporation	123 Main St	123 Main Street	US	US	10001	10001	1
+S1_0084	S2_0084	Sunrise Bakery	Sunset Bakery	9 Elm St	22 Pine Rd	US	US	60614	60615	0
+S1_0085	S2_0085	Acme Corp	Acme Corporation	123 Main St	123 Main Street	US	US	10001	10001	1
+S1_0086	S2_0086	Cafe Paris	Cafe de Paris	10 Rue de Rivoli	10 Rue Rivoli	FR	FR	75001	75001	1
+S1_0087	S2_0087	Tokyo Imports	Osaka Exports	1-2 Shibuya	3-4 Namba	JP	JP	150-0002	556-0011	0
+S1_0088	S2_0088	Delta Airlines	Delta Air Lines Inc	PO Box 20706	Hartsfield Airport	US	US	30320	30320	1
+S1_0089	S2_0089	Global Tech Ltd	Global Technologies Limited	45 Oak Ave	45 Oak Avenue	GB	GB	SW1A 1AA	SW1A 1AA	1
+S1_0090	S2_0090	Sunrise Bakery	Sunset Bakery	9 Elm St	22 Pine Rd	US	US	60614	60615	0
+S1_0091	S2_0091	Riverdale Clinic	Riverside Clinic	12 River Rd	88 Lake Rd	US	US	94110	94111	0
+S1_0092	S2_0092	Cafe Paris	Cafe de Paris	10 Rue de Rivoli	10 Rue Rivoli	FR	FR	75001	75001	1
+S1_0093	S2_0093	Sunrise Bakery	Sunset Bakery	9 Elm St	22 Pine Rd	US	US	60614	60615	0
+S1_0094	S2_0094	Berlin Motors GmbH	Berlin Motors	Alexanderplatz 1	Alexanderplatz 1	DE	DE	10178	10178	1
+S1_0095	S2_0095	Tokyo Imports	Osaka Exports	1-2 Shibuya	3-4 Namba	JP	JP	150-0002	556-0011	0
+S1_0096	S2_0096	Berlin Motors GmbH	Berlin Motors	Alexanderplatz 1	Alexanderplatz 1	DE	DE	10178	10178	1
+S1_0097	S2_0097	Nordic Fisheries AB	Nordic Fisheries	Hamngatan 12	Hamngatan 12	SE	SE	11147	11147	1
+S1_0098	S2_0098	Delta Airlines	Delta Air Lines Inc	PO Box 20706	Hartsfield Airport	US	US	30320	30320	1
+S1_0099	S2_0099	Nordic Fisheries AB	Nordic Fisheries	Hamngatan 12	Hamngatan 12	SE	SE	11147	11147	1
+S1_0100	S2_0100	Sunrise Bakery	Sunset Bakery	9 Elm St	22 Pine Rd	US	US	60614	60615	0
+S1_0101	S2_0101	Maple Leaf Foods	Maple Leaf Food Co	500 King St W	500 King Street West	CA	CA	M5V 1L9	M5V 1L9	1
+S1_0102	S2_0102	Maple Leaf Foods	Maple Leaf Food Co	500 King St W	500 King Street West	CA	CA	M5V 1L9	M5V 1L9	1
+S1_0103	S2_0103	Delta Airlines	Delta Air Lines Inc	PO Box 20706	Hartsfield Airport	US	US	30320	30320	1
+S1_0104	S2_0104	Riverdale Clinic	Riverside Clinic	12 River Rd	88 Lake Rd	US	US	94110	94111	0
+S1_0105	S2_0105	Tokyo Imports	Osaka Exports	1-2 Shibuya	3-4 Namba	JP	JP	150-0002	556-0011	0
+S1_0106	S2_0106	Riverdale Clinic	Riverside Clinic	12 River Rd	88 Lake Rd	US	US	94110	94111	0
+S1_0107	S2_0107	Tokyo Imports	Osaka Exports	1-2 Shibuya	3-4 Namba	JP	JP	150-0002	556-0011	0
+S1_0108	S2_0108	Cafe Paris	Cafe de Paris	10 Rue de Rivoli	10 Rue Rivoli	FR	FR	75001	75001	1
+S1_0109	S2_0109	Sunrise Bakery	Sunset Bakery	9 Elm St	22 Pine Rd	US	US	60614	60615	0
+S1_0110	S2_0110	Nordic Fisheries AB	Nordic Fisheries	Hamngatan 12	Hamngatan 12	SE	SE	11147	11147	1
+S1_0111	S2_0111	Maple Leaf Foods	Maple Leaf Food Co	500 King St W	500 King Street West	CA	CA	M5V 1L9	M5V 1L9	1
+S1_0112	S2_0112	Berlin Motors GmbH	Berlin Motors	Alexanderplatz 1	Alexanderplatz 1	DE	DE	10178	10178	1
+S1_0113	S2_0113	Global Tech Ltd	Global Technologies Limited	45 Oak Ave	45 Oak Avenue	GB	GB	SW1A 1AA	SW1A 1AA	1
+S1_0114	S2_0114	Acme Corp	Acme Corporation	123 Main St	123 Main Street	US	US	10001	10001	1
+S1_0115	S2_0115	Global Tech Ltd	Global Technologies Limited	45 Oak Ave	45 Oak Avenue	GB	GB	SW1A 1AA	SW1A 1AA	1
+S1_0116	S2_0116	Nordic Fisheries AB	Nordic Fisheries	Hamngatan 12	Hamngatan 12	SE	SE	11147	11147	1
+S1_0117	S2_0117	Nordic Fisheries AB	Nordic Fisheries	Hamngatan 12	Hamngatan 12	SE	SE	11147	11147	1
+S1_0118	S2_0118	Tokyo Imports	Osaka Exports	1-2 Shibuya	3-4 Namba	JP	JP	150-0002	556-0011	0
+S1_0119	S2_0119	Riverdale Clinic	Riverside Clinic	12 River Rd	88 Lake Rd	US	US	94110	94111	0
+S1_0120	S2_0120	Global Tech Ltd	Global Technologies Limited	45 Oak Ave	45 Oak Avenue	GB	GB	SW1A 1AA	SW1A 1AA	1
+S1_0121	S2_0121	Tokyo Imports	Osaka Exports	1-2 Shibuya	3-4 Namba	JP	JP	150-0002	556-0011	0
+S1_0122	S2_0122	Tokyo Imports	Osaka Exports	1-2 Shibuya	3-4 Namba	JP	JP	150-0002	556-0011	0
+S1_0123	S2_0123	Riverdale Clinic	Riverside Clinic	12 River Rd	88 Lake Rd	US	US	94110	94111	0
+S1_0124	S2_0124	Berlin Motors GmbH	Berlin Motors	Alexanderplatz 1	Alexanderplatz 1	DE	DE	10178	10178	1
+S1_0125	S2_0125	Maple Leaf Foods	Maple Leaf Food Co	500 King St W	500 King Street West	CA	CA	M5V 1L9	M5V 1L9	1
+S1_0126	S2_0126	Delta Airlines	Delta Air Lines Inc	PO Box 20706	Hartsfield Airport	US	US	30320	30320	1
+S1_0127	S2_0127	Maple Leaf Foods	Maple Leaf Food Co	500 King St W	500 King Street West	CA	CA	M5V 1L9	M5V 1L9	1
+S1_0128	S2_0128	Acme Corp	Acme Corporation	123 Main St	123 Main Street	US	US	10001	10001	1
+S1_0129	S2_0129	Global Tech Ltd	Global Technologies Limited	45 Oak Ave	45 Oak Avenue	GB	GB	SW1A 1AA	SW1A 1AA	1
+S1_0130	S2_0130	Maple Leaf Foods	Maple Leaf Food Co	500 King St W	500 King Street West	CA	CA	M5V 1L9	M5V 1L9	1
+S1_0131	S2_0131	Delta Airlines	Delta Air Lines Inc	PO Box 20706	Hartsfield Airport	US	US	30320	30320	1
+S1_0132	S2_0132	Cafe Paris	Cafe de Paris	10 Rue de Rivoli	10 Rue Rivoli	FR	FR	75001	75001	1
+S1_0133	S2_0133	Global Tech Ltd	Global Technologies Limited	45 Oak Ave	45 Oak Avenue	GB	GB	SW1A 1AA	SW1A 1AA	1
+S1_0134	S2_0134	Delta Airlines	Delta Air Lines Inc	PO Box 20706	Hartsfield Airport	US	US	30320	30320	1
+S1_0135	S2_0135	Tokyo Imports	Osaka Exports	1-2 Shibuya	3-4 Namba	JP	JP	150-0002	556-0011	0
+S1_0136	S2_0136	Nordic Fisheries AB	Nordic Fisheries	Hamngatan 12	Hamngatan 12	SE	SE	11147	11147	1
+S1_0137	S2_0137	Berlin Motors GmbH	Berlin Motors	Alexanderplatz 1	Alexanderplatz 1	DE	DE	10178	10178	1
+S1_0138	S2_0138	Acme Corp	Acme Corporation	123 Main St	123 Main Street	US	US	10001	10001	1
+S1_0139	S2_0139	Delta Airlines	Delta Air Lines Inc	PO Box 20706	Hartsfield Airport	US	US	30320	30320	1
+S1_0140	S2_0140	Maple Leaf Foods	Maple Leaf Food Co	500 King St W	500 King Street West	CA	CA	M5V 1L9	M5V 1L9	1
+S1_0141	S2_0141	Nordic Fisheries AB	Nordic Fisheries	Hamngatan 12	Hamngatan 12	SE	SE	11147	11147	1
+S1_0142	S2_0142	Maple Leaf Foods	Maple Leaf Food Co	500 King St W	500 King Street West	CA	CA	M5V 1L9	M5V 1L9	1
+S1_0143	S2_0143	Global Tech Ltd	Global Technologies Limited	45 Oak Ave	45 Oak Avenue	GB	GB	SW1A 1AA	SW1A 1AA	1
+S1_0144	S2_0144	Delta Airlines	Delta Air Lines Inc	PO Box 20706	Hartsfield Airport	US	US	30320	30320	1
+S1_0145	S2_0145	Maple Leaf Foods	Maple Leaf Food Co	500 King St W	500 King Street West	CA	CA	M5V 1L9	M5V 1L9	1
+S1_0146	S2_0146	Riverdale Clinic	Riverside Clinic	12 River Rd	88 Lake Rd	US	US	94110	94111	0
+S1_0147	S2_0147	Sunrise Bakery	Sunset Bakery	9 Elm St	22 Pine Rd	US	US	60614	60615	0
+S1_0148	S2_0148	Nordic Fisheries AB	Nordic Fisheries	Hamngatan 12	Hamngatan 12	SE	SE	11147	11147	1
+S1_0149	S2_0149	Cafe Paris	Cafe de Paris	10 Rue de Rivoli	10 Rue Rivoli	FR	FR	75001	75001	1
+S1_0150	S2_0150	Nordic Fisheries AB	Nordic Fisheries	Hamngatan 12	Hamngatan 12	SE	SE	11147	11147	1
+S1_0151	S2_0151	Maple Leaf Foods	Maple Leaf Food Co	500 King St W	500 King Street West	CA	CA	M5V 1L9	M5V 1L9	1
+S1_0152	S2_0152	Maple Leaf Foods	Maple Leaf Food Co	500 King St W	500 King Street West	CA	CA	M5V 1L9	M5V 1L9	1
+S1_0153	S2_0153	Acme Corp	Acme Corporation	123 Main St	123 Main Street	US	US	10001	10001	1
+S1_0154	S2_0154	Riverdale Clinic	Riverside Clinic	12 River Rd	88 Lake Rd	US	US	94110	94111	0
+S1_0155	S2_0155	Cafe Paris	Cafe de Paris	10 Rue de Rivoli	10 Rue Rivoli	FR	FR	75001	75001	1
+S1_0156	S2_0156	Berlin Motors GmbH	Berlin Motors	Alexanderplatz 1	Alexanderplatz 1	DE	DE	10178	10178	1
+S1_0157	S2_0157	Acme Corp	Acme Corporation	123 Main St	123 Main Street	US	US	10001	10001	1
+S1_0158	S2_0158	Global Tech Ltd	Global Technologies Limited	45 Oak Ave	45 Oak Avenue	GB	GB	SW1A 1AA	SW1A 1AA	1
+S1_0159	S2_0159	Cafe Paris	Cafe de Paris	10 Rue de Rivoli	10 Rue Rivoli	FR	FR	75001	75001	1
+S1_0160	S2_0160	Delta Airlines	Delta Air Lines Inc	PO Box 20706	Hartsfield Airport	US	US	30320	30320	1
+S1_0161	S2_0161	Sunrise Bakery	Sunset Bakery	9 Elm St	22 Pine Rd	US	US	60614	60615	0
+S1_0162	S2_0162	Acme Corp	Acme Corporation	123 Main St	123 Main Street	US	US	10001	10001	1
+S1_0163	S2_0163	Sunrise Bakery	Sunset Bakery	9 Elm St	22 Pine Rd	US	US	60614	60615	0
+S1_0164	S2_0164	Riverdale Clinic	Riverside Clinic	12 River Rd	88 Lake Rd	US	US	94110	94111	0
+S1_0165	S2_0165	Global Tech Ltd	Global Technologies Limited	45 Oak Ave	45 Oak Avenue	GB	GB	SW1A 1AA	SW1A 1AA	1
+S1_0166	S2_0166	Global Tech Ltd	Global Technologies Limited	45 Oak Ave	45 Oak Avenue	GB	GB	SW1A 1AA	SW1A 1AA	1
+S1_0167	S2_0167	Berlin Motors GmbH	Berlin Motors	Alexanderplatz 1	Alexanderplatz 1	DE	DE	10178	10178	1
+S1_0168	S2_0168	Global Tech Ltd	Global Technologies Limited	45 Oak Ave	45 Oak Avenue	GB	GB	SW1A 1AA	SW1A 1AA	1
+S1_0169	S2_0169	Maple Leaf Foods	Maple Leaf Food Co	500 King St W	500 King Street West	CA	CA	M5V 1L9	M5V 1L9	1
+S1_0170	S2_0170	Nordic Fisheries AB	Nordic Fisheries	Hamngatan 12	Hamngatan 12	SE	SE	11147	11147	1
+S1_0171	S2_0171	Nordic Fisheries AB	Nordic Fisheries	Hamngatan 12	Hamngatan 12	SE	SE	11147	11147	1
+S1_0172	S2_0172	Berlin Motors GmbH	Berlin Motors	Alexanderplatz 1	Alexanderplatz 1	DE	DE	10178	10178	1
+S1_0173	S2_0173	Maple Leaf Foods	Maple Leaf Food Co	500 King St W	500 King Street West	CA	CA	M5V 1L9	M5V 1L9	1
+S1_0174	S2_0174	Nordic Fisheries AB	Nordic Fisheries	Hamngatan 12	Hamngatan 12	SE	SE	11147	11147	1
+S1_0175	S2_0175	Delta Airlines	Delta Air Lines Inc	PO Box 20706	Hartsfield Airport	US	US	30320	30320	1
+S1_0176	S2_0176	Maple Leaf Foods	Maple Leaf Food Co	500 King St W	500 King Street West	CA	CA	M5V 1L9	M5V 1L9	1
+S1_0177	S2_0177	Riverdale Clinic	Riverside Clinic	12 River Rd	88 Lake Rd	US	US	94110	94111	0
+S1_0178	S2_0178	Tokyo Imports	Osaka Exports	1-2 Shibuya	3-4 Namba	JP	JP	150-0002	556-0011	0
+S1_0179	S2_0179	Sunrise Bakery	Sunset Bakery	9 Elm St	22 Pine Rd	US	US	60614	60615	0
+S1_0180	S2_0180	Maple Leaf Foods	Maple Leaf Food Co	500 King St W	500 King Street West	CA	CA	M5V 1L9	M5V 1L9	1
+S1_0181	S2_0181	Sunrise Bakery	Sunset Bakery	9 Elm St	22 Pine Rd	US	US	60614	60615	0
+S1_0182	S2_0182	Delta Airlines	Delta Air Lines Inc	PO Box 20706	Hartsfield Airport	US	US	30320	30320	1
+S1_0183	S2_0183	Tokyo Imports	Osaka Exports	1-2 Shibuya	3-4 Namba	JP	JP	150-0002	556-0011	0
+S1_0184	S2_0184	Cafe Paris	Cafe de Paris	10 Rue de Rivoli	10 Rue Rivoli	FR	FR	75001	75001	1
+S1_0185	S2_0185	Berlin Motors GmbH	Berlin Motors	Alexanderplatz 1	Alexanderplatz 1	DE	DE	10178	10178	1
+S1_0186	S2_0186	Maple Leaf Foods	Maple Leaf Food Co	500 King St W	500 King Street West	CA	CA	M5V 1L9	M5V 1L9	1
+S1_0187	S2_0187	Berlin Motors GmbH	Berlin Motors	Alexanderplatz 1	Alexanderplatz 1	DE	DE	10178	10178	1
+S1_0188	S2_0188	Global Tech Ltd	Global Technologies Limited	45 Oak Ave	45 Oak Avenue	GB	GB	SW1A 1AA	SW1A 1AA	1
+S1_0189	S2_0189	Sunrise Bakery	Sunset Bakery	9 Elm St	22 Pine Rd	US	US	60614	60615	0
+S1_0190	S2_0190	Sunrise Bakery	Sunset Bakery	9 Elm St	22 Pine Rd	US	US	60614	60615	0
+S1_0191	S2_0191	Global Tech Ltd	Global Technologies Limited	45 Oak Ave	45 Oak Avenue	GB	GB	SW1A 1AA	SW1A 1AA	1
+S1_0192	S2_0192	Cafe Paris	Cafe de Paris	10 Rue de Rivoli	10 Rue Rivoli	FR	FR	75001	75001	1
+S1_0193	S2_0193	Acme Corp	Acme Corporation	123 Main St	123 Main Street	US	US	10001	10001	1
+S1_0194	S2_0194	Riverdale Clinic	Riverside Clinic	12 River Rd	88 Lake Rd	US	US	94110	94111	0
+S1_0195	S2_0195	Maple Leaf Foods	Maple Leaf Food Co	500 King St W	500 King Street West	CA	CA	M5V 1L9	M5V 1L9	1
+S1_0196	S2_0196	Sunrise Bakery	Sunset Bakery	9 Elm St	22 Pine Rd	US	US	60614	60615	0
+S1_0197	S2_0197	Riverdale Clinic	Riverside Clinic	12 River Rd	88 Lake Rd	US	US	94110	94111	0
+S1_0198	S2_0198	Sunrise Bakery	Sunset Bakery	9 Elm St	22 Pine Rd	US	US	60614	60615	0
+S1_0199	S2_0199	Acme Corp	Acme Corporation	123 Main St	123 Main Street	US	US	10001	10001	1
